@@ -1,0 +1,14 @@
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Denise Flora\Downloads\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.AssemblyReference.cache
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfoInputs.cache
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.AssemblyInfo.cs
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.csproj.CoreCompileInputs.cache
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Denise Flora\463794e1-f381-46c9-85f4-3bdd2b4ba572\ApiCatalogoJogos-master\ExemploApiCatalogoJogos\obj\Debug\net5.0\ExemploApiCatalogoJogos.MvcApplicationPartsAssemblyInfo.cache
