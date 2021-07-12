@@ -1,4 +1,4 @@
-Cadastro-de-Jogos
+Catalogo-de-Jogos
 
 Este project tem como objectivo implementar uma api restfull 
 no desenvolvimento da arquitetura da aplicação para cadastro de jogos 🎮, que posteriorimente irei desenvolve-la.
